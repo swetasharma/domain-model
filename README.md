@@ -5,4 +5,3 @@ Domain model for the following use cases:
 3. One tenant can rent multiple apartments from the same landlord. 
 4. One tenant can rent multiple apartments simultaneously. 
 5. A landlord can also be a tenant of another landlord.
-Attached is the ER diagram as an outcome of this task.
